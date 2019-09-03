@@ -1625,7 +1625,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-md-2 col-xs-6 bottommargin">
+						<div class="col-md-2 col-xs-6" style="margin-bottom:100px">
 							<div class="team">
 								<div class="team-image">
 									<img src="/img/team/WebDevelopers/aryan.jpg" alt="Aryan">
@@ -1664,8 +1664,6 @@
 										<i class="icon-linkedin"></i>
 										<i class="icon-linkedin"></i>
 									</a>
-
-
 								</div>
 							</div>
 						</div>
